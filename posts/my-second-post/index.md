@@ -1,7 +1,7 @@
 <!--
-.. title: My First Blog
-.. slug: my-first-blog
-.. date: 2024-11-30 17:47:56 UTC+05:30
+.. title: My Second Post
+.. slug: my-second-post
+.. date: 2024-11-30 18:08:46 UTC+05:30
 .. tags: 
 .. category: 
 .. link: 
@@ -10,3 +10,5 @@
 -->
 
 Write your post here.
+
+# Hell
