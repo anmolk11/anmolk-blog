@@ -1,7 +1,7 @@
 <!--
-.. title: My First Blog
-.. slug: my-first-blog
-.. date: 2024-11-30 17:47:56 UTC+05:30
+.. title: My Thrid blog
+.. slug: my-thrid-blog
+.. date: 2024-11-30 18:17:43 UTC+05:30
 .. tags: 
 .. category: 
 .. link: 

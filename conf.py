@@ -155,7 +155,7 @@ NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: ()
 }
 
-# Name of the theme to use.
+# # Name of the theme to use.
 THEME = "bootblog4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
@@ -163,7 +163,7 @@ THEME = "bootblog4"
 # as an accent color (the default ones don’t). Must be a HEX value.
 THEME_COLOR = '#5670d4'
 
-THEME="willy-theme"
+# THEME="willy-theme"
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.
@@ -695,7 +695,7 @@ GITHUB_COMMIT_SOURCE = True
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
 # to the location of conf.py
-# OUTPUT_FOLDER = 'output'
+OUTPUT_FOLDER = 'output'
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
