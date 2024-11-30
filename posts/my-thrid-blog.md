@@ -10,3 +10,7 @@
 -->
 
 Write your post here.
+
+Face it all.
+
+![](/images/image.jpg)
